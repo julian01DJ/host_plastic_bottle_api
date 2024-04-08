@@ -1,0 +1,165 @@
+{
+  "plastic_bottles": [
+    {
+      "id": 1,
+      "brand": "Aquafina",
+      "volume_ml": 500,
+      "material": "PET",
+      "recyclable": true,
+      "color": "Clear"
+    },
+    {
+      "id": 2,
+      "brand": "Dasani",
+      "volume_ml": 750,
+      "material": "PET",
+      "recyclable": true,
+      "color": "Blue"
+    },
+    {
+      "id": 3,
+      "brand": "Nestle Pure Life",
+      "volume_ml": 1000,
+      "material": "PET",
+      "recyclable": true,
+      "color": "Clear"
+    },
+    {
+      "id": 4,
+      "brand": "Coca-Cola",
+      "volume_ml": 355,
+      "material": "PET",
+      "recyclable": true,
+      "color": "Red"
+    },
+    {
+      "id": 5,
+      "brand": "Pepsi",
+      "volume_ml": 500,
+      "material": "PET",
+      "recyclable": true,
+      "color": "Blue"
+    },
+    {
+      "id": 6,
+      "brand": "Sprite",
+      "volume_ml": 600,
+      "material": "PET",
+      "recyclable": true,
+      "color": "Green"
+    },
+    {
+      "id": 7,
+      "brand": "Evian",
+      "volume_ml": 330,
+      "material": "PET",
+      "recyclable": true,
+      "color": "Clear"
+    },
+    {
+      "id": 8,
+      "brand": "Fiji Water",
+      "volume_ml": 500,
+      "material": "PET",
+      "recyclable": true,
+      "color": "Clear"
+    },
+    {
+      "id": 9,
+      "brand": "Perrier",
+      "volume_ml": 330,
+      "material": "PET",
+      "recyclable": true,
+      "color": "Green"
+    },
+    {
+      "id": 10,
+      "brand": "Volvic",
+      "volume_ml": 750,
+      "material": "PET",
+      "recyclable": true,
+      "color": "Blue"
+    },
+    {
+      "id": 11,
+      "brand": "Aquafina",
+      "volume_ml": 500,
+      "material": "HDPE",
+      "recyclable": true,
+      "color": "Clear"
+    },
+    {
+      "id": 12,
+      "brand": "Dasani",
+      "volume_ml": 750,
+      "material": "HDPE",
+      "recyclable": true,
+      "color": "Blue"
+    },
+    {
+      "id": 13,
+      "brand": "Nestle Pure Life",
+      "volume_ml": 1000,
+      "material": "HDPE",
+      "recyclable": true,
+      "color": "Clear"
+    },
+    {
+      "id": 14,
+      "brand": "Coca-Cola",
+      "volume_ml": 355,
+      "material": "HDPE",
+      "recyclable": true,
+      "color": "Red"
+    },
+    {
+      "id": 15,
+      "brand": "Pepsi",
+      "volume_ml": 500,
+      "material": "HDPE",
+      "recyclable": true,
+      "color": "Blue"
+    },
+    {
+      "id": 16,
+      "brand": "Sprite",
+      "volume_ml": 600,
+      "material": "HDPE",
+      "recyclable": true,
+      "color": "Green"
+    },
+    {
+      "id": 17,
+      "brand": "Evian",
+      "volume_ml": 330,
+      "material": "HDPE",
+      "recyclable": true,
+      "color": "Clear"
+    },
+    {
+      "id": 18,
+      "brand": "Fiji Water",
+      "volume_ml": 500,
+      "material": "HDPE",
+      "recyclable": true,
+      "color": "Clear"
+    },
+    {
+      "id": 19,
+      "brand": "Perrier",
+      "volume_ml": 330,
+      "material": "HDPE",
+      "recyclable": true,
+      "color": "Green"
+    },
+    {
+      "id": 20,
+      "brand": "Volvic",
+      "volume_ml": 750,
+      "material": "HDPE",
+      "recyclable": true,
+      "color": "Blue"
+    },
+    
+  ]
+}
